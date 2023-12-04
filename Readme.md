@@ -9,3 +9,5 @@ This is a chrome extension for saving important tabs within your chrome browser
 3. click on the Load Unpacked button
 4. Navigate to the folder where the application files are kept
 5. Select the folder and start enjoying
+
+-> The app allows you to save current tabs or manually enter a prefered URL. 
